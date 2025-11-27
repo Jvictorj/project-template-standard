@@ -57,6 +57,3 @@ Ideal para projetos:
 ## [1.0.0] - 2025-01-01
 ### Added
 - Versão inicial do template
-````
-
----
