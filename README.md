@@ -1,7 +1,7 @@
 # 🚀 Project Template — Complete Repository Starter
 
 Este repositório serve como um **template completo** para novos projetos, incluindo:
-- Modelo de README profissional
+- Modelo de README
 - Guia de contribuição
 - Changelog padrão
 - Licenças MIT e Apache 2.0
